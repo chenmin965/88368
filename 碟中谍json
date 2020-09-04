@@ -1,0 +1,15 @@
+{
+    "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+    "title": "你的频道名字",
+    "type": "tv",
+    "channels": [
+        {
+            "name": "碟中谍2",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-01/201801121515752638.jpg",
+            "url": "https://youku.cdn-8-okzy.com/20180722/23644_369a2143/index.m3u8",
+            "urls": {
+                "HD高清": "https://youku.cdn-8-okzy.com/20180722/23644_369a2143/index.m3u8"
+            }
+        }
+    ]
+}
